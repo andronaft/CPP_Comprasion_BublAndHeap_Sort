@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\andrey zhukovskiy\desktop\my_poap\lab2\consoleapplication1\consoleapplication1\consoleapplication1.cpp(114): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Andrey Zhukovskiy\Desktop\my_poap\lab2\ConsoleApplication1\Debug\ConsoleApplication1.exe

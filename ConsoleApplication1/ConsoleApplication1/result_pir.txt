@@ -1,0 +1,3 @@
+pir  //  size : 100, comprasion : 462 , appropiation : 331 , time : 16123 microsec.
+pir  //  size : 1000, comprasion : 6455 , appropiation : 4624 , time : 365 microsec.
+pir  //  size : 100000, comprasion : 1114896 , appropiation : 773137 , time : 26507 microsec.

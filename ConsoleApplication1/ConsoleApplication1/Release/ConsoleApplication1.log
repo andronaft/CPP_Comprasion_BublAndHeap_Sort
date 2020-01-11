@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+ConsoleApplication1.cpp(113): warning C4101: 'i': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Andrey Zhukovskiy\source\repos\ConsoleApplication1\Release\ConsoleApplication1.exe'

@@ -1,0 +1,3 @@
+bulb  //  size : 100, comprasion : 4653 , appropiation : 1429 , time : 44 microsec.
+bulb  //  size : 1000, comprasion : 497502 , appropiation : 129693 , time : 3666 microsec.
+bulb  //  size : 100000, comprasion : 5014649853 , appropiation : 1256752907 , time : 57424284 microsec.
